@@ -1,2 +1,4 @@
-# my-test_repo
-first repo
+# Test Repo 
+~~~
+run the following command to create project 
+~~~
